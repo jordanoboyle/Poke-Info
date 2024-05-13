@@ -1,0 +1,2 @@
+class PokePicture < ApplicationRecord
+end
